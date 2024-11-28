@@ -5,6 +5,5 @@
 * salt
 * pepper
 * secret ingredient
-* Toenails
 ## Instructions 
 
